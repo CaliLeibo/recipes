@@ -1,2 +1,1 @@
-# recipes
-Simple website for recipes I enjoy
+Website practice about recipes I enjoy
