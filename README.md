@@ -1,2 +1,2 @@
 # recipes
-Simple website for recipes i enjoy
+Simple website for recipes I enjoy
